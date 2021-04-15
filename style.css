@@ -1,0 +1,26 @@
+img {
+    width:675px;
+    hieght:1095px;
+    
+}
+#y{
+    width:2000px;
+    hieght:2000px;
+}
+body{
+    background-color: orange;
+    text-align: center;
+}
+h1{
+    font-family: serif;
+    font-size: 40px;
+}
+
+hr {
+    height: 3px;
+    color:aquamarine;
+}
+#jhon {
+     height: 20px;
+    color:aquamarine;
+}
